@@ -1,0 +1,12 @@
+{
+    "url": "http://www.dnswl.org/s",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210211022359/https://www.dnswl.org/s/",
+            "timestamp": "20210211022359"
+        }
+    },
+    "timestamp": "20200316"
+}

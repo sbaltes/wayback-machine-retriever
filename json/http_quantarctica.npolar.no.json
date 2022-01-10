@@ -1,0 +1,12 @@
+{
+    "url": "http://quantarctica.npolar.no",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200209161954/https://quantarctica.npolar.no/",
+            "timestamp": "20200209161954"
+        }
+    },
+    "timestamp": "20200316"
+}

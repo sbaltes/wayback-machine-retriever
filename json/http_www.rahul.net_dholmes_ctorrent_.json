@@ -1,0 +1,12 @@
+{
+    "url": "http://www.rahul.net/dholmes/ctorrent/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200428010743/http://www.rahul.net:80/dholmes/ctorrent/",
+            "timestamp": "20200428010743"
+        }
+    },
+    "timestamp": "20200316"
+}

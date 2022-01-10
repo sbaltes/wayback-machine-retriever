@@ -1,0 +1,12 @@
+{
+    "url": "http://streaming.liwest.at",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20070907064222/http://streaming.liwest.at:80/",
+            "timestamp": "20070907064222"
+        }
+    },
+    "timestamp": "20200316"
+}

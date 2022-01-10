@@ -1,0 +1,12 @@
+{
+    "url": "http://npm1k.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200221165840/http://npm1k.org:80/",
+            "timestamp": "20200221165840"
+        }
+    },
+    "timestamp": "20200316"
+}

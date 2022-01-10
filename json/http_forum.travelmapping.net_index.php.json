@@ -1,0 +1,12 @@
+{
+    "url": "http://forum.travelmapping.net/index.php",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200312160836/http://forum.travelmapping.net:80/index.php",
+            "timestamp": "20200312160836"
+        }
+    },
+    "timestamp": "20200316"
+}

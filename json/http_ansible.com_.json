@@ -1,0 +1,12 @@
+{
+    "url": "http://ansible.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200314112719/https://www.ansible.com/",
+            "timestamp": "20200314112719"
+        }
+    },
+    "timestamp": "20200316"
+}

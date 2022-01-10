@@ -1,0 +1,12 @@
+{
+    "url": "http://www.thiki.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20180103155047/http://thiki.org/",
+            "timestamp": "20180103155047"
+        }
+    },
+    "timestamp": "20200316"
+}

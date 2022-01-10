@@ -1,0 +1,12 @@
+{
+    "url": "https://www.knot-dns.cz/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200331205901/https://www.knot-dns.cz/",
+            "timestamp": "20200331205901"
+        }
+    },
+    "timestamp": "20200316"
+}

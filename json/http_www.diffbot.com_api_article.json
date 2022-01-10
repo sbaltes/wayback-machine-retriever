@@ -1,0 +1,12 @@
+{
+    "url": "http://www.diffbot.com/api/article",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20180531170638/https://www.diffbot.com/api/article",
+            "timestamp": "20180531170638"
+        }
+    },
+    "timestamp": "20200316"
+}

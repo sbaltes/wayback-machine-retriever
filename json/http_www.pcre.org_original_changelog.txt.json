@@ -1,0 +1,12 @@
+{
+    "url": "http://www.pcre.org/original/changelog.txt",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200321124033/http://pcre.org:80/original/changelog.txt",
+            "timestamp": "20200321124033"
+        }
+    },
+    "timestamp": "20200316"
+}

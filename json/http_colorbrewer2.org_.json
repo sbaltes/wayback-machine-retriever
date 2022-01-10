@@ -1,0 +1,12 @@
+{
+    "url": "http://colorbrewer2.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200315063548/https://colorbrewer2.org/",
+            "timestamp": "20200315063548"
+        }
+    },
+    "timestamp": "20200316"
+}

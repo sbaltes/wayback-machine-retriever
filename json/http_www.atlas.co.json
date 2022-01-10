@@ -1,0 +1,12 @@
+{
+    "url": "http://www.atlas.co",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20191221180349/https://www.atlas.co/",
+            "timestamp": "20191221180349"
+        }
+    },
+    "timestamp": "20200316"
+}

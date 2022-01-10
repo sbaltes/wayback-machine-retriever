@@ -1,0 +1,12 @@
+{
+    "url": "http://qa.tiki.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20130426084109/http://qa.tiki.org",
+            "timestamp": "20130426084109"
+        }
+    },
+    "timestamp": "20200316"
+}

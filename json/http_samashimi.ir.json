@@ -1,0 +1,12 @@
+{
+    "url": "http://samashimi.ir",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200226035606/http://samashimi.ir:80/",
+            "timestamp": "20200226035606"
+        }
+    },
+    "timestamp": "20200316"
+}

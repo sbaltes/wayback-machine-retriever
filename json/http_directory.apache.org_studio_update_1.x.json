@@ -1,0 +1,12 @@
+{
+    "url": "http://directory.apache.org/studio/update/1.x",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20130207023414/http://directory.apache.org:80/studio/update/1.x/",
+            "timestamp": "20130207023414"
+        }
+    },
+    "timestamp": "20200316"
+}

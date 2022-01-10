@@ -1,0 +1,12 @@
+{
+    "url": "https://mothership.cx",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200706052715/https://mothership.cx/",
+            "timestamp": "20200706052715"
+        }
+    },
+    "timestamp": "20200316"
+}

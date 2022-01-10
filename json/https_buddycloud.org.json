@@ -1,0 +1,12 @@
+{
+    "url": "https://buddycloud.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200224180845/https://buddycloud.org/",
+            "timestamp": "20200224180845"
+        }
+    },
+    "timestamp": "20200316"
+}

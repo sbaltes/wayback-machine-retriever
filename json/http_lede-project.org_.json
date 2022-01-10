@@ -1,0 +1,12 @@
+{
+    "url": "http://lede-project.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20180130014427/https://lede-project.org/",
+            "timestamp": "20180130014427"
+        }
+    },
+    "timestamp": "20200316"
+}

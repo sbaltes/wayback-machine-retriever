@@ -1,0 +1,12 @@
+{
+    "url": "http://gondor.apana.org.au/~herbert/pubkey.txt",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200308002334/http://gondor.apana.org.au/~herbert/pubkey.txt",
+            "timestamp": "20200308002334"
+        }
+    },
+    "timestamp": "20200316"
+}

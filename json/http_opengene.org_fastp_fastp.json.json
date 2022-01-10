@@ -1,0 +1,12 @@
+{
+    "url": "http://opengene.org/fastp/fastp.json",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190925071040/http://opengene.org:80/fastp/fastp.json",
+            "timestamp": "20190925071040"
+        }
+    },
+    "timestamp": "20200316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://fragment.stc.cx/files/wmwebcam-0.3.5.tar.gz",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20060824020741/http://fragment.stc.cx:80/files/wmwebcam-0.3.5.tar.gz",
+            "timestamp": "20060824020741"
+        }
+    },
+    "timestamp": "20200316"
+}

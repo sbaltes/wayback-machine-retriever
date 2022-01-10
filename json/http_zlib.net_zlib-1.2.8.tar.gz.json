@@ -1,0 +1,12 @@
+{
+    "url": "http://zlib.net/zlib-1.2.8.tar.gz",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20161107192108/http://zlib.net/zlib-1.2.8.tar.gz",
+            "timestamp": "20161107192108"
+        }
+    },
+    "timestamp": "20200316"
+}

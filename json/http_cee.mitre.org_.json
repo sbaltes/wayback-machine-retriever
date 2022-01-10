@@ -1,0 +1,12 @@
+{
+    "url": "http://cee.mitre.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200228031950/http://cee.mitre.org/",
+            "timestamp": "20200228031950"
+        }
+    },
+    "timestamp": "20200316"
+}

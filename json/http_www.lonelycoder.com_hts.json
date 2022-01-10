@@ -1,0 +1,12 @@
+{
+    "url": "http://www.lonelycoder.com/hts",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20111221044135/http://www.lonelycoder.com:80/hts/",
+            "timestamp": "20111221044135"
+        }
+    },
+    "timestamp": "20200316"
+}

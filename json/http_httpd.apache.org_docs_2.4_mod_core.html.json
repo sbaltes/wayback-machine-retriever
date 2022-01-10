@@ -1,0 +1,12 @@
+{
+    "url": "http://httpd.apache.org/docs/2.4/mod/core.html",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200320083748/http://httpd.apache.org:80/docs/2.4/mod/core.html",
+            "timestamp": "20200320083748"
+        }
+    },
+    "timestamp": "20200316"
+}

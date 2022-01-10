@@ -1,0 +1,12 @@
+{
+    "url": "http://tv.jwplayer.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200306060257/http://tv.jwplayer.com:80/",
+            "timestamp": "20200306060257"
+        }
+    },
+    "timestamp": "20200316"
+}

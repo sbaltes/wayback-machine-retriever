@@ -1,0 +1,12 @@
+{
+    "url": "http://www.realdos.net/realdos.html",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200202192632/http://www.realdos.net:80/realdos.html",
+            "timestamp": "20200202192632"
+        }
+    },
+    "timestamp": "20200316"
+}

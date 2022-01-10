@@ -1,0 +1,12 @@
+{
+    "url": "http://mantis.tokeek.de/view.php",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200224053231/http://mantis.tokeek.de:80/view.php?",
+            "timestamp": "20200224053231"
+        }
+    },
+    "timestamp": "20200316"
+}

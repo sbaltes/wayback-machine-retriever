@@ -1,0 +1,12 @@
+{
+    "url": "https://developer.payeezy.com/payeezy-api/apis/get/securitytokens",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20160601184400/http://developer.payeezy.com:80/payeezy-api/apis/get/securitytokens",
+            "timestamp": "20160601184400"
+        }
+    },
+    "timestamp": "20200316"
+}

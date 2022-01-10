@@ -1,0 +1,12 @@
+{
+    "url": "http://people.xiph.org/~xiphmont/emagic/emi-20131209.tgz",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20140809100541/http://people.xiph.org/~xiphmont/emagic/emi-20131209.tgz",
+            "timestamp": "20140809100541"
+        }
+    },
+    "timestamp": "20200316"
+}

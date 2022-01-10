@@ -1,0 +1,12 @@
+{
+    "url": "http://beta.html5test.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200328074630/http://beta.html5test.com:80/",
+            "timestamp": "20200328074630"
+        }
+    },
+    "timestamp": "20200316"
+}

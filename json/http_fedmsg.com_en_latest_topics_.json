@@ -1,0 +1,12 @@
+{
+    "url": "http://fedmsg.com/en/latest/topics/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20211122104556/http://www.fedmsg.com/en/latest/topics/",
+            "timestamp": "20211122104556"
+        }
+    },
+    "timestamp": "20200316"
+}

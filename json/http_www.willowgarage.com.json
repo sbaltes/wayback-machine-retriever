@@ -1,0 +1,12 @@
+{
+    "url": "http://www.willowgarage.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200306052804/http://www.willowgarage.com:80/",
+            "timestamp": "20200306052804"
+        }
+    },
+    "timestamp": "20200316"
+}

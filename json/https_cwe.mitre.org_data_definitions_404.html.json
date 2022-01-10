@@ -1,0 +1,12 @@
+{
+    "url": "https://cwe.mitre.org/data/definitions/404.html",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200224223359/http://cwe.mitre.org:80/data/definitions/404.html",
+            "timestamp": "20200224223359"
+        }
+    },
+    "timestamp": "20200316"
+}

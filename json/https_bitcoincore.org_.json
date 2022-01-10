@@ -1,0 +1,12 @@
+{
+    "url": "https://bitcoincore.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200415063943/https://bitcoincore.org/",
+            "timestamp": "20200415063943"
+        }
+    },
+    "timestamp": "20200316"
+}

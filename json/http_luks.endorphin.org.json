@@ -1,0 +1,12 @@
+{
+    "url": "http://luks.endorphin.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20081220220033/http://luks.endorphin.org:80/",
+            "timestamp": "20081220220033"
+        }
+    },
+    "timestamp": "20200316"
+}

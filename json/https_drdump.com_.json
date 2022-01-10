@@ -1,0 +1,12 @@
+{
+    "url": "https://drdump.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20100107012801/http://drdump.com:80/",
+            "timestamp": "20100107012801"
+        }
+    },
+    "timestamp": "20200316"
+}

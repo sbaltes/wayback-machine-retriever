@@ -1,0 +1,12 @@
+{
+    "url": "http://engineering.sharethis.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20170108035925/http://engineering.sharethis.com:80/",
+            "timestamp": "20170108035925"
+        }
+    },
+    "timestamp": "20200316"
+}

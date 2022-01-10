@@ -1,0 +1,12 @@
+{
+    "url": "http://updatesite.rubypeople.org/release",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20160305200605/http://updatesite.rubypeople.org/release",
+            "timestamp": "20160305200605"
+        }
+    },
+    "timestamp": "20200316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.holm.cc/stress/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190929071843/http://www.holm.cc:80/stress/",
+            "timestamp": "20190929071843"
+        }
+    },
+    "timestamp": "20200316"
+}
