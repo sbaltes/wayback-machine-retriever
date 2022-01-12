@@ -1,0 +1,12 @@
+{
+    "url": "http://othersite.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20030621190843/http://www.othersite.com:80/",
+            "timestamp": "20030621190843"
+        }
+    },
+    "timestamp": "20210316"
+}

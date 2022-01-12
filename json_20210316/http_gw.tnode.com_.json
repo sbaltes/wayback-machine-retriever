@@ -1,0 +1,12 @@
+{
+    "url": "http://gw.tnode.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210224144618/http://gw.tnode.com/",
+            "timestamp": "20210224144618"
+        }
+    },
+    "timestamp": "20210316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.wesnoth.org/forum/viewtopic.php",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20101208184814/http://www.wesnoth.org:80/forum/viewtopic.php?",
+            "timestamp": "20101208184814"
+        }
+    },
+    "timestamp": "20210316"
+}

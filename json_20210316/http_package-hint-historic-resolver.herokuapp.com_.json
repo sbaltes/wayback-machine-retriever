@@ -1,0 +1,12 @@
+{
+    "url": "http://package-hint-historic-resolver.herokuapp.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190819040951/http://package-hint-historic-resolver.herokuapp.com/",
+            "timestamp": "20190819040951"
+        }
+    },
+    "timestamp": "20210316"
+}

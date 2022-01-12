@@ -1,0 +1,12 @@
+{
+    "url": "http://www.mazdausa.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210317061220/https://www.mazdausa.com/",
+            "timestamp": "20210317061220"
+        }
+    },
+    "timestamp": "20210316"
+}

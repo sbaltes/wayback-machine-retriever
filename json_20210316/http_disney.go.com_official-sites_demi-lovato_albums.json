@@ -1,0 +1,12 @@
+{
+    "url": "http://disney.go.com/official-sites/demi-lovato/albums",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20120807035303/http://disney.go.com/official-sites/demi-lovato/albums",
+            "timestamp": "20120807035303"
+        }
+    },
+    "timestamp": "20210316"
+}

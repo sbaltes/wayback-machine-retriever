@@ -1,0 +1,12 @@
+{
+    "url": "http://search.yahoo.com/mrss/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20090520201242/http://search.yahoo.com/mrss/",
+            "timestamp": "20090520201242"
+        }
+    },
+    "timestamp": "20210316"
+}

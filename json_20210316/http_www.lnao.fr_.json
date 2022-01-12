@@ -1,0 +1,12 @@
+{
+    "url": "http://www.lnao.fr/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210311230204/http://lnao.fr/",
+            "timestamp": "20210311230204"
+        }
+    },
+    "timestamp": "20210316"
+}

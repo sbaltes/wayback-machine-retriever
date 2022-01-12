@@ -1,0 +1,12 @@
+{
+    "url": "http://messenger.yahoo.co.jp/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20161026123718/http://messenger.yahoo.co.jp/",
+            "timestamp": "20161026123718"
+        }
+    },
+    "timestamp": "20210316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://buildserver.deegree.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20181113014032/http://buildserver.deegree.org/",
+            "timestamp": "20181113014032"
+        }
+    },
+    "timestamp": "20210316"
+}

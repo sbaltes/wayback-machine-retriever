@@ -1,0 +1,12 @@
+{
+    "url": "http://www.gentoo.org/proj/en/qa/asneeded.xml",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20130522081503/http://www.gentoo.org:80/proj/en/qa/asneeded.xml",
+            "timestamp": "20130522081503"
+        }
+    },
+    "timestamp": "20210316"
+}

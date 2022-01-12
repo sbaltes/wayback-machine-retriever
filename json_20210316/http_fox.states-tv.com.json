@@ -1,0 +1,12 @@
+{
+    "url": "http://fox.states-tv.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20170420091853/http://fox.states-tv.com:80/",
+            "timestamp": "20170420091853"
+        }
+    },
+    "timestamp": "20210316"
+}

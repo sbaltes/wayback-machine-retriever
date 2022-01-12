@@ -1,0 +1,12 @@
+{
+    "url": "https://packages.qa.debian.org/m/mbw.html",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20130927222141/http://packages.qa.debian.org/m/mbw.html",
+            "timestamp": "20130927222141"
+        }
+    },
+    "timestamp": "20210316"
+}

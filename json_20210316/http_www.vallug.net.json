@@ -1,0 +1,12 @@
+{
+    "url": "http://www.vallug.net",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20101108094432/http://www.vallug.net:80/",
+            "timestamp": "20101108094432"
+        }
+    },
+    "timestamp": "20210316"
+}

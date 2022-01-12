@@ -1,0 +1,12 @@
+{
+    "url": "http://news.ycombinator.com/item",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210320064246/https://news.ycombinator.com/item",
+            "timestamp": "20210320064246"
+        }
+    },
+    "timestamp": "20210316"
+}

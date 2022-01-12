@@ -1,0 +1,12 @@
+{
+    "url": "https://bugzilla.redhat.com/show_bug.cgi",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210305092628/https://bugzilla.redhat.com/show_bug.cgi",
+            "timestamp": "20210305092628"
+        }
+    },
+    "timestamp": "20210316"
+}

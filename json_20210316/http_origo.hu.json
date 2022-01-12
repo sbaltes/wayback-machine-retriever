@@ -1,0 +1,12 @@
+{
+    "url": "http://origo.hu",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20070918104039/http://origo.hu",
+            "timestamp": "20070918104039"
+        }
+    },
+    "timestamp": "20210316"
+}

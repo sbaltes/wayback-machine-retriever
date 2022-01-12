@@ -1,0 +1,12 @@
+{
+    "url": "http://traffic.511.org/sfgate",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20120814025629/http://traffic.511.org:80/sfgate/",
+            "timestamp": "20120814025629"
+        }
+    },
+    "timestamp": "20210316"
+}

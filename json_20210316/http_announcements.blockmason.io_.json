@@ -1,0 +1,12 @@
+{
+    "url": "http://announcements.blockmason.io/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190213025237/https://announcements.blockmason.io/",
+            "timestamp": "20190213025237"
+        }
+    },
+    "timestamp": "20210316"
+}

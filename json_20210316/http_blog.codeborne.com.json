@@ -1,0 +1,12 @@
+{
+    "url": "http://blog.codeborne.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20140528195420/http://blog.codeborne.com:80/",
+            "timestamp": "20140528195420"
+        }
+    },
+    "timestamp": "20210316"
+}

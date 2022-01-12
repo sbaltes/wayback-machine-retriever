@@ -1,0 +1,12 @@
+{
+    "url": "http://auscashexplorer.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210119011949/http://auscashexplorer.org/",
+            "timestamp": "20210119011949"
+        }
+    },
+    "timestamp": "20210316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.dioo.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210514102659/https://dioo.com/",
+            "timestamp": "20210514102659"
+        }
+    },
+    "timestamp": "20210316"
+}

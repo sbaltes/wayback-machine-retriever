@@ -1,0 +1,12 @@
+{
+    "url": "http://smacktest.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20170626153051/http://smacktest.com/",
+            "timestamp": "20170626153051"
+        }
+    },
+    "timestamp": "20210316"
+}

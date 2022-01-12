@@ -1,0 +1,12 @@
+{
+    "url": "https://explorer.tao.foundation",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210225212857/https://explorer.tao.foundation/",
+            "timestamp": "20210225212857"
+        }
+    },
+    "timestamp": "20210316"
+}

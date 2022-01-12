@@ -1,0 +1,12 @@
+{
+    "url": "http://buildroot.net/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210507002946/https://buildroot.net/",
+            "timestamp": "20210507002946"
+        }
+    },
+    "timestamp": "20210316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://bugs.wireshark.org/bugzilla/show_bug.cgi",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20201112043146/https://bugs.wireshark.org/bugzilla/show_bug.cgi",
+            "timestamp": "20201112043146"
+        }
+    },
+    "timestamp": "20210316"
+}

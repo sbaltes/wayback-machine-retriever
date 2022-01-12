@@ -18,15 +18,16 @@ def get_wayback_availability():
 
 if __name__ == '__main__':
     # https://archive.org/help/wayback_api.php
-    base_url = 'http://archive.org/wayback/available?timestamp=20200316' # after data collection finished
+    base_url = 'http://archive.org/wayback/available?timestamp=20210316' # after data collection finished
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0",
         "Accept-Encoding": "*",
         "Connection": "keep-alive"
     }
     session = requests.Session()
-    output_dir = 'json'
-    shutil.rmtree(output_dir)
+    output_dir = 'json_20210316'
+    if os.path.isdir(output_dir):
+        shutil.rmtree(output_dir)
     os.makedirs(output_dir)
     with open('links.csv') as links_input_file:
         for link in csv.reader(links_input_file):

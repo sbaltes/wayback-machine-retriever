@@ -1,0 +1,12 @@
+{
+    "url": "http://investor.cmegroup.com/investor-relations/releasedetail.cfm",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20180726085634/http://investor.cmegroup.com:80/investor-relations/releasedetail.cfm",
+            "timestamp": "20180726085634"
+        }
+    },
+    "timestamp": "20210316"
+}

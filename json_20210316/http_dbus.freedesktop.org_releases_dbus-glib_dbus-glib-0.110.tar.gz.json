@@ -1,0 +1,12 @@
+{
+    "url": "http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.110.tar.gz",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210410081133/https://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.110.tar.gz",
+            "timestamp": "20210410081133"
+        }
+    },
+    "timestamp": "20210316"
+}

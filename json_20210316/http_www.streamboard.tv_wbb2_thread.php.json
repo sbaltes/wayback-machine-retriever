@@ -1,0 +1,12 @@
+{
+    "url": "http://www.streamboard.tv/wbb2/thread.php",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200601134909/http://www.streamboard.tv:80/wbb2/thread.php",
+            "timestamp": "20200601134909"
+        }
+    },
+    "timestamp": "20210316"
+}

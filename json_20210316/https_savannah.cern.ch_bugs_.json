@@ -1,0 +1,12 @@
+{
+    "url": "https://savannah.cern.ch/bugs/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20061116112420/http://savannah.cern.ch:80/bugs/?",
+            "timestamp": "20061116112420"
+        }
+    },
+    "timestamp": "20210316"
+}
