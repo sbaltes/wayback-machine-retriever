@@ -1,0 +1,12 @@
+{
+    "url": "http://search.newport.com/?q=*",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20121112214422/http://search.newport.com:80/?x1=sku&q1=0901",
+            "timestamp": "20121112214422"
+        }
+    },
+    "timestamp": "20200316"
+}

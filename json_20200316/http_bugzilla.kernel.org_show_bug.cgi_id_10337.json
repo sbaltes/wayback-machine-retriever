@@ -1,0 +1,12 @@
+{
+    "url": "http://bugzilla.kernel.org/show_bug.cgi?id=10337",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210322211558/https://bugzilla.kernel.org/show_bug.cgi?id=10337",
+            "timestamp": "20210322211558"
+        }
+    },
+    "timestamp": "20200316"
+}

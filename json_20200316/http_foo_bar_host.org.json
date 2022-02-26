@@ -1,0 +1,12 @@
+{
+    "url": "http://foo:bar@host.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210125011040/http://host.org/",
+            "timestamp": "20210125011040"
+        }
+    },
+    "timestamp": "20200316"
+}

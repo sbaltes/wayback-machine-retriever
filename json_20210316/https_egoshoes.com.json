@@ -1,5 +1,12 @@
 {
     "url": "https://egoshoes.com",
-    "archived_snapshots": {},
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210317112157/https://egoshoes.com/",
+            "timestamp": "20210317112157"
+        }
+    },
     "timestamp": "20210316"
 }

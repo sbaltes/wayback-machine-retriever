@@ -1,12 +1,5 @@
 {
     "url": "http://mail-index.netbsd.org/source-changes-d/2016/09/13/msg008686.html",
-    "archived_snapshots": {
-        "closest": {
-            "status": "200",
-            "available": true,
-            "url": "http://web.archive.org/web/20210118210247/http://mail-index.netbsd.org/source-changes-d/2016/09/13/msg008686.html",
-            "timestamp": "20210118210247"
-        }
-    },
+    "archived_snapshots": {},
     "timestamp": "20210316"
 }

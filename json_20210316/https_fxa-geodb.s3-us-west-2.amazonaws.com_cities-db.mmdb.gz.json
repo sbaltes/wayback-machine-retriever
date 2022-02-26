@@ -1,0 +1,12 @@
+{
+    "url": "https://fxa-geodb.s3-us-west-2.amazonaws.com/cities-db.mmdb.gz",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200908150221/https://fxa-geodb.s3-us-west-2.amazonaws.com/cities-db.mmdb.gz",
+            "timestamp": "20200908150221"
+        }
+    },
+    "timestamp": "20210316"
+}

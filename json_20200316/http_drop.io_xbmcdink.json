@@ -1,12 +1,5 @@
 {
     "url": "http://drop.io/xbmcdink",
-    "archived_snapshots": {
-        "closest": {
-            "status": "200",
-            "available": true,
-            "url": "http://web.archive.org/web/20100112102944/http://drop.io:80/xbmcdink",
-            "timestamp": "20100112102944"
-        }
-    },
+    "archived_snapshots": {},
     "timestamp": "20200316"
 }

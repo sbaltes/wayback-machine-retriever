@@ -1,0 +1,12 @@
+{
+    "url": "https://nw.local",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20130712215651/http://nw.local",
+            "timestamp": "20130712215651"
+        }
+    },
+    "timestamp": "20200316"
+}

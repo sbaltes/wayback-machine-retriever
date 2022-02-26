@@ -1,0 +1,12 @@
+{
+    "url": "http://www.barnivore.com/beer?vfilter=All",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210410144814/https://www.barnivore.com/beer?vfilter=All",
+            "timestamp": "20210410144814"
+        }
+    },
+    "timestamp": "20210316"
+}

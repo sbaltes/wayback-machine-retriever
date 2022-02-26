@@ -1,5 +1,12 @@
 {
     "url": "http://luracast.com/products/restler/",
-    "archived_snapshots": {},
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210225191329/https://www.luracast.com/products/restler/",
+            "timestamp": "20210225191329"
+        }
+    },
     "timestamp": "20210316"
 }

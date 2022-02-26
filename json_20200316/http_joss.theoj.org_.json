@@ -1,0 +1,12 @@
+{
+    "url": "http://joss.theoj.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200503135415/https://joss.theoj.org/",
+            "timestamp": "20200503135415"
+        }
+    },
+    "timestamp": "20200316"
+}

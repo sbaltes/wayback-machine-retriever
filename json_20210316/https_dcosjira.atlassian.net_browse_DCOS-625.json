@@ -1,5 +1,12 @@
 {
     "url": "https://dcosjira.atlassian.net/browse/DCOS-625",
-    "archived_snapshots": {},
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210413195359/https://dcosjira.atlassian.net/browse/DCOS-625",
+            "timestamp": "20210413195359"
+        }
+    },
     "timestamp": "20210316"
 }

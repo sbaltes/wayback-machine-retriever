@@ -1,0 +1,12 @@
+{
+    "url": "https://db.debian.org/machines.cgi?host=zelenka",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190925194223/https://db.debian.org/machines.cgi?host=zelenka",
+            "timestamp": "20190925194223"
+        }
+    },
+    "timestamp": "20210316"
+}
