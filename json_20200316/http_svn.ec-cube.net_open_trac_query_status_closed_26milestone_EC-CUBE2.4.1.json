@@ -1,0 +1,12 @@
+{
+    "url": "http://svn.ec-cube.net/open_trac/query?status=closed&milestone=EC-CUBE2.4.1",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20091124022334/http://svn.ec-cube.net:80/open_trac/query?status=closed&milestone=EC-CUBE2.4.1",
+            "timestamp": "20091124022334"
+        }
+    },
+    "timestamp": "20200316"
+}

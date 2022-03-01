@@ -1,12 +1,5 @@
 {
     "url": "http://identi.ca/brionv/all",
-    "archived_snapshots": {
-        "closest": {
-            "status": "200",
-            "available": true,
-            "url": "http://web.archive.org/web/20101222014506/http://identi.ca:80/brionv/all?",
-            "timestamp": "20101222014506"
-        }
-    },
+    "archived_snapshots": {},
     "timestamp": "20210316"
 }

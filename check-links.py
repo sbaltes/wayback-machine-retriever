@@ -18,7 +18,7 @@ def get_wayback_availability():
 
 if __name__ == '__main__':
     # https://archive.org/help/wayback_api.php
-    timestamp = '20200316'  # 20210316
+    timestamp = '20210316'  # 20210316
     base_url = 'http://archive.org/wayback/available?timestamp=' + timestamp
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0",
@@ -34,7 +34,7 @@ if __name__ == '__main__':
     with codecs.open('links.csv', 'r', encoding='utf8') as links_input_file:
         for link in csv.reader(links_input_file):
             time.sleep(randint(500, 2000)/1000)
-            url = link[0]
+            url = link[0].replace('&','%26')
             filename = re.sub('[^\\w.-]+', '_', url)
             print(url)
             query_url = base_url + f'&url={url}'
