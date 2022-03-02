@@ -1,12 +1,5 @@
 {
     "url": "http://www.netfilter.org/projects/libnetfilter_conntrack/",
-    "archived_snapshots": {
-        "closest": {
-            "status": "200",
-            "available": true,
-            "url": "http://web.archive.org/web/20200713112209/http://www.netfilter.org:80/projects/libnetfilter_conntrack/",
-            "timestamp": "20200713112209"
-        }
-    },
+    "archived_snapshots": {},
     "timestamp": "20200316"
 }
