@@ -1,0 +1,12 @@
+{
+    "url": "https://api.del.icio.us",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20191011222735/https://api.del.icio.us/",
+            "timestamp": "20191011222735"
+        }
+    },
+    "timestamp": "20220316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "https://secure.pub.build.mozilla.org/builddata/buildjson/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20150905022731/https://secure.pub.build.mozilla.org/builddata/buildjson/",
+            "timestamp": "20150905022731"
+        }
+    },
+    "timestamp": "20220316"
+}

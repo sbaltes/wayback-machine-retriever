@@ -1,0 +1,12 @@
+{
+    "url": "http://www.nbc.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20220316192748/https://www.nbc.com/",
+            "timestamp": "20220316192748"
+        }
+    },
+    "timestamp": "20220316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.opencastproject.org/matterhorn/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20110727150827/http://www.opencastproject.org/matterhorn",
+            "timestamp": "20110727150827"
+        }
+    },
+    "timestamp": "20220316"
+}

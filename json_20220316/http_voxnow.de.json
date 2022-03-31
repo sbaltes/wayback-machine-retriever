@@ -1,0 +1,12 @@
+{
+    "url": "http://voxnow.de",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20150516083634/http://www.voxnow.de:80/",
+            "timestamp": "20150516083634"
+        }
+    },
+    "timestamp": "20220316"
+}

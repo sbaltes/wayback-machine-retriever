@@ -1,0 +1,12 @@
+{
+    "url": "https://code.coreboot.org/p/flashrom/source/tree/HEAD/trunk/sb600spi.c",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20160408010126/https://code.coreboot.org/p/flashrom/source/tree/head/trunk/sb600spi.c",
+            "timestamp": "20160408010126"
+        }
+    },
+    "timestamp": "20220316"
+}

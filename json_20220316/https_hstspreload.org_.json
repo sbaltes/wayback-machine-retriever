@@ -1,0 +1,12 @@
+{
+    "url": "https://hstspreload.org/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20220315122818/https://hstspreload.org/",
+            "timestamp": "20220315122818"
+        }
+    },
+    "timestamp": "20220316"
+}

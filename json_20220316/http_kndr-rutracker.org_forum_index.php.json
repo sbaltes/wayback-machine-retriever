@@ -1,0 +1,12 @@
+{
+    "url": "http://kndr-rutracker.org/forum/index.php",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190310114815/http://kndr-rutracker.org:80/forum/index.php",
+            "timestamp": "20190310114815"
+        }
+    },
+    "timestamp": "20220316"
+}

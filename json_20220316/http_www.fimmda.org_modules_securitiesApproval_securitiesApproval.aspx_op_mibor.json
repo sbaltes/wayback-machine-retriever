@@ -1,0 +1,12 @@
+{
+    "url": "http://www.fimmda.org/modules/securitiesApproval/securitiesApproval.aspx?op=mibor",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210307023833/http://fimmda.org/modules/securitiesApproval/securitiesApproval.aspx?op=mibor",
+            "timestamp": "20210307023833"
+        }
+    },
+    "timestamp": "20220316"
+}
