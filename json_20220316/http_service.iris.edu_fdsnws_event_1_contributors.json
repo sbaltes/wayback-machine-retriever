@@ -1,0 +1,12 @@
+{
+    "url": "http://service.iris.edu/fdsnws/event/1/contributors",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20210414195035/https://service.iris.edu/fdsnws/event/1/contributors",
+            "timestamp": "20210414195035"
+        }
+    },
+    "timestamp": "20220316"
+}

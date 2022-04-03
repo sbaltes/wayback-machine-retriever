@@ -1,0 +1,12 @@
+{
+    "url": "https://site.com",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20220314211437/https://site.com/",
+            "timestamp": "20220314211437"
+        }
+    },
+    "timestamp": "20220316"
+}

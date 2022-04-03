@@ -1,0 +1,12 @@
+{
+    "url": "http://ejdb.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20220210144222/https://ejdb.org/",
+            "timestamp": "20220210144222"
+        }
+    },
+    "timestamp": "20220316"
+}

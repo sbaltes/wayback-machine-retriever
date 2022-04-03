@@ -1,0 +1,12 @@
+{
+    "url": "http://mirrors.mit.edu/sage/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20200130064811/http://mirrors.mit.edu:80/sage/",
+            "timestamp": "20200130064811"
+        }
+    },
+    "timestamp": "20220316"
+}

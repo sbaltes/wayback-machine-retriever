@@ -1,0 +1,12 @@
+{
+    "url": "http://www.stagemonitor.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20211108162311/https://www.stagemonitor.org/",
+            "timestamp": "20211108162311"
+        }
+    },
+    "timestamp": "20220316"
+}

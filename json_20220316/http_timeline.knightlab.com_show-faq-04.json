@@ -1,0 +1,12 @@
+{
+    "url": "http://timeline.knightlab.com/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20220315200026/http://timeline.knightlab.com/",
+            "timestamp": "20220315200026"
+        }
+    },
+    "timestamp": "20220316"
+}

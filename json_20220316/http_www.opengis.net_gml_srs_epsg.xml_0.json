@@ -1,0 +1,12 @@
+{
+    "url": "http://www.opengis.net/gml/srs/epsg.xml",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20211110232621/http://www.opengis.net/gml/srs/epsg.xml",
+            "timestamp": "20211110232621"
+        }
+    },
+    "timestamp": "20220316"
+}

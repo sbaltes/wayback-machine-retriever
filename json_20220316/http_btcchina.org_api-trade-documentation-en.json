@@ -1,0 +1,12 @@
+{
+    "url": "http://btcchina.org/api-trade-documentation-en",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20150901080049/http://btcchina.org:80/api-trade-documentation-en",
+            "timestamp": "20150901080049"
+        }
+    },
+    "timestamp": "20220316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://www.bitburger-open.de/",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20190627051157/http://www.bitburger-open.de:80/",
+            "timestamp": "20190627051157"
+        }
+    },
+    "timestamp": "20220316"
+}

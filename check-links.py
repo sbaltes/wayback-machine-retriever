@@ -18,7 +18,7 @@ def get_wayback_availability():
 
 if __name__ == '__main__':
     # https://archive.org/help/wayback_api.php
-    timestamp = '20210316'  # 20210316
+    timestamp = '20220316'  # 20210316
     base_url = 'http://archive.org/wayback/available?timestamp=' + timestamp
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0",

@@ -1,0 +1,12 @@
+{
+    "url": "http://elmundo.feedsportal.com/elmundo/rss/portada.xml",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20180320183739/http://elmundo.feedsportal.com:80/elmundo/rss/portada.xml",
+            "timestamp": "20180320183739"
+        }
+    },
+    "timestamp": "20220316"
+}

@@ -1,0 +1,12 @@
+{
+    "url": "http://api.mojepanstwo.pl",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20150502092612/http://api.mojepanstwo.pl:80/",
+            "timestamp": "20150502092612"
+        }
+    },
+    "timestamp": "20220316"
+}

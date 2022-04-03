@@ -1,0 +1,12 @@
+{
+    "url": "http://search.newport.com/?q=*&x2=sku&q2=AG-UC8",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20160521112144/http://search.newport.com:80/?q=*&x2=sku&q2=AG-UC8",
+            "timestamp": "20160521112144"
+        }
+    },
+    "timestamp": "20220316"
+}

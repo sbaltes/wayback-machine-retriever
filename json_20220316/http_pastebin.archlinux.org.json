@@ -1,0 +1,12 @@
+{
+    "url": "http://pastebin.archlinux.org",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20080820081917/http://pastebin.archlinux.org/",
+            "timestamp": "20080820081917"
+        }
+    },
+    "timestamp": "20220316"
+}

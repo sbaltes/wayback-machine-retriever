@@ -1,0 +1,12 @@
+{
+    "url": "http://www.cryptool.org/jct/update",
+    "archived_snapshots": {
+        "closest": {
+            "status": "200",
+            "available": true,
+            "url": "http://web.archive.org/web/20160701210412/https://www.cryptool.org/jct/update/",
+            "timestamp": "20160701210412"
+        }
+    },
+    "timestamp": "20220316"
+}
